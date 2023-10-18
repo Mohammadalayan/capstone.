@@ -1,8 +1,13 @@
-import logo from "./logo.svg"
+import logo from "./logo.svg";
+import './header.css';
+
 function Header() {
     return (
     <>
-<img src={logo}></img>
+    <header>
+    
+<img src={logo} className="logo"></img>
+    </header>
     </>
     );
   }

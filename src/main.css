@@ -1,0 +1,90 @@
+
+.m{
+background-color: #3A4639;
+margin: 0 20px;
+
+}
+*{
+}
+.ma{
+height: 300px;
+width: 300px;
+margin-left:1000px;
+margin-top:-230px;
+
+}
+h1,p,h2{
+    display: flex;
+    margin-left: 200px;
+    padding: -1px;
+}
+.b{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    height: 40px;
+    border: black 1px solid;
+    border-radius: 5px;
+    margin-left:400px ;
+}
+h1{
+    font-size: 45px;    
+
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 19px;
+}
+.cont{
+    display:inline-flex;
+
+}
+
+.fob{
+    display: grid;
+    grid-template-columns: 500px;
+}
+.mc{
+    background-color: #edefeed2;
+    height: 485px;
+    flex: 1;
+    margin-top: 130px;
+    border-radius: 9px;
+    width: 370px;
+margin-left:120px;
+}
+.price{
+    color: #EE9972;
+    margin-top: -45px;
+    margin-left:295px;
+
+}
+.pa{
+    font-size: 18px;
+
+    margin-left: 40px;
+}
+.i{
+    height: 35px;
+    margin-top: -7px;
+    margin-left:50px ;
+}
+.d{
+    height: 35px;
+    margin-top: 25px;
+    margin-left:40px ;
+}
+.name{
+    margin-top: 20px;
+    margin-left:35px;
+}
+.g{
+    margin-top:0px ;
+    margin-left:0px;
+
+height: 200px;
+width: 370px;
+border-radius: 9px;
+}
