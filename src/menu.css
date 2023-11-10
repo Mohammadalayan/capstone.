@@ -1,0 +1,129 @@
+
+
+  
+  @media (min-width: 709px) and (max-width: 1024px) {
+    table {
+      font-size:23px ;
+        border: 5px solid black;
+        
+        margin:25px 160px 0px 200px;
+       }
+   td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid black;
+    
+    border-bottom: 1px solid #ddd;
+ 
+   }
+
+
+  h2{
+justify-content: center;  
+  .all{
+    display:grid;
+    
+  }
+      }
+    /* CSS rules for screens between 769px and 1024px */
+   
+  }
+  @media (max-width: 768px) {
+    /* CSS rules for screens smaller than 768px */
+    table {
+      font-size:25px ;
+        border: 2px solid black;
+    text-align: center;
+margin:20px 25px 20px 25px;   
+
+      }
+      #b{
+height: 200px;
+width:650px;
+margin:20px 25px 20px 25px;   
+
+      }
+      td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid black;
+    
+    border-bottom: 1px solid #ddd;
+  }
+  body{
+    
+    background-color: rgba(144, 144, 144, 0.356);
+  }
+  h2{
+    text-align: center;
+  }
+  .all{
+    display:grid; 
+  }
+  
+ #cop{
+margin: 0px 20px 4px 410px;
+font-size: 20px;
+ }
+ article{
+  margin: 0px 20px 4px 27px;
+
+ }
+}
+  #logo{
+    width: 250px;
+    height: 100px;
+    text-align: center;
+  }
+     
+  
+  
+  
+  
+  @media (min-width: 1025px) {#logo{
+    width: 450px;
+    height: 200px;
+margin: 20px 20px 10px 520px;    
+  }#b{
+    height: 360px;
+    width: 13.7in;
+    margin:25px 130px 25px 130px;
+
+  }
+  #cop{
+    margin: 0px 20px 4px 1115px;
+    font-size: 20px;
+     }
+     
+    /* CSS rules for screens larger than 1024px */
+     table {
+  font-size:23px ;background-color: hsl(160, 13%, 33%);    
+
+    border: 5px solid black;
+    margin:25px 130px 25px 130px;
+
+  }
+    
+  td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid black;
+    
+    border-bottom: 1px solid #ddd;
+  }
+ 
+  .ah2{
+
+margin: auto;
+}
+  .all{
+    display:grid;
+    
+  }
+
+  }
+  
+
+  
+  
+  

@@ -1,7 +1,6 @@
 import React from "react";
 import "./nav.css";
 import { Routes, Route, Link } from "react-router-dom";
-import Footer from "./footer";
 
 function Nav() {
   return (
@@ -9,18 +8,16 @@ function Nav() {
       <div className="nav">
       <ul>
         
-          <li><Link to="/footer">Home</Link></li>
+          <li><Link to="/">Home</Link></li>
           <li><Link to="/footer">About</Link></li>
-          <li><Link to="/footer">Menu</Link></li>
-          <li><Link to="/footer">Reservations</Link></li>
-          <li><Link to="/footer">Order Online</Link></li>
-          <li><Link to="/footer">Login</Link></li>
+          <li><Link to="/menu">Menu</Link></li>
+          <li><Link to="/reserve">Reservations</Link></li>
+          <li><Link to="/soon">Order Online</Link></li>
+          <li><Link to="/soon">Login</Link></li>
 
       </ul>
 
-      <Routes>
-        <Route path="/footer" element={<Footer />} />
-      </Routes> </div>
+       </div>
          </nav>
 
   );

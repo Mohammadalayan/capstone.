@@ -1,0 +1,70 @@
+.photo{
+    width: 90px;
+    height: 90px;
+    margin-left:15px ;
+}
+
+
+.conta{
+    background-color: #495e57;
+    height: 350px;
+    margin: 40px 20px;
+    border-radius: 14px;
+}
+.fun{
+margin-top:-318px;
+margin-left: 430px;
+margin-bottom: 150px;
+}
+.func{
+    
+margin-top:-370px;
+margin-left: 840px;
+margin-bottom: 150px;
+}
+.names{
+    margin-top: 28px;
+    margin-left:40px ;
+}
+.h2{
+display: flex;
+justify-content: center;
+padding-top:12px ;
+margin-left: auto;
+margin-top:55px;
+}
+.containner{
+    background-color: #edefeed2;
+    width: 320px;
+    height: 220px;
+    border-radius: 18px;
+    margin-left: 200px;
+}
+.stars{
+    margin-left: 15px;
+    padding-top: 20px;
+}
+.parg{
+    margin-left: -80px;
+    margin-top: -90px;
+}
+.par{
+    font-size: 17px;
+}
+.pargre{
+    
+        margin-top: -18.5px;
+    margin-left:0px ;
+    
+}
+.pargr{
+    
+        
+    margin-top: 30px;
+    margin-left:0px ;
+    
+}
+.star{
+    width: 17px;
+    height: 17px;
+}
